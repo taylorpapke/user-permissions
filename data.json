@@ -1,0 +1,7 @@
+{
+    "users": [
+      { "UserID": 1, "UserName": "adminUser", "Permissions": "admin" },
+      { "UserID": 2, "UserName": "editorUser", "Permissions": "editor" },
+      { "UserID": 3, "UserName": "viewerUser", "Permissions": "viewer" }
+    ]
+  }
